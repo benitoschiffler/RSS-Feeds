@@ -1,0 +1,64 @@
+watchlists:
+  vendors:
+    - name: 20/20 Vision for Success
+    - name: Advantage Credit
+    - name: Amarlo
+    - name: ARIVE
+    - name: Berman Media PD
+    - name: BrokerVA
+    - name: Chris Welton Coaching
+    - name: Co/LAB
+    - name: Cotality
+    - name: Direct Authority AI
+    - name: FormFree
+    - name: High Level for Mortgage Pros
+    - name: KeySteps
+    - name: FinLocker
+    - name: KM Performance Coaching
+    - name: LeadHackers
+    - name: Lender Price
+    - name: LoanSites
+    - name: Loan Team Training
+    - name: Madison Chase Academy
+    - name: Maisy365
+    - name: MLO Force
+    - name: MMI
+      strict_google_match: true
+    - name: myhomeIQ
+    - name: My Credit Guy
+    - name: One Rose Consulting
+    - name: RadCRM
+    - name: Rapidio
+    - name: RETR
+      strict_google_match: true
+    - name: Roam
+      strict_google_match: true
+    - name: Stikkum
+    - name: Strategic Compliance Partners
+    - name: The Collective Coaching
+    - name: The Defining Difference
+    - name: The Financial Architects
+    - name: Turbo Insurance
+    - name: Vertisure
+    - name: VettedVA
+  lenders:
+    - name: United Wholesale Mortgage
+      aliases:
+        - UWM
+      strict_google_match: true
+    - name: Equity Prime Mortgage
+      aliases:
+        - EPM
+      strict_google_match: true
+    - name: NewRez Wholesale
+    - name: Windsor Mortgage
+    - name: Cake Mortgage
+    - name: eLend
+    - name: RCN Capital
+    - name: Union Home Mortgage
+    - name: Sierra Pacific
+    - name: Gold Star Wholesale
+    - name: Newfi
+    - name: PRMG
+      strict_google_match: true
+    - name: The Loan Store

@@ -1,0 +1,18 @@
+roam:
+  base_url: https://api.ro.am
+  token: replace-me-with-roam-api-token
+  channels:
+    vendors: replace-with-roam-chat-id-or-channel-name
+    lenders: replace-with-roam-chat-id-or-channel-name
+
+state:
+  path: state/sponsor_watch.sqlite3
+
+request_timeout_seconds: 20
+request_retries: 2
+max_items_per_company: 3
+
+google_news:
+  hl: en-US
+  gl: US
+  ceid: US:en
